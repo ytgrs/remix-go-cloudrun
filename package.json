@@ -13,9 +13,11 @@
     "typegen": "wrangler types"
   },
   "dependencies": {
+    "@apollo/client": "^3.9.10",
     "@remix-run/cloudflare": "^2.8.1",
     "@remix-run/cloudflare-pages": "^2.8.1",
     "@remix-run/react": "^2.8.1",
+    "graphql": "^16.8.1",
     "isbot": "^4.1.0",
     "miniflare": "^3.20231030.4",
     "react": "^18.2.0",
